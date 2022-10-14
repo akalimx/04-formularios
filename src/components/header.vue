@@ -1,7 +1,7 @@
 <template>
     <div class="row">
       <div class="col-12 col-md-3">
-        <h1>FORMULARIOS EB</h1>
+        <h1>FORMULARIOS AECL</h1>
       </div>
       <div class="col-12 col-md-3">
         <img :src="url" :alt="alt" width="100">
